@@ -1,0 +1,7 @@
+wheel
+requests
+fake-useragent
+colorama
+instagram_private_api
+keyboard
+pymongo
